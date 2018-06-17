@@ -1,3 +1,6 @@
 public class HelloAgain{
-  //we will write things here later
+  
+  public static void main(String args) {
+    System.out.println("Hello again");
+  }
 }
